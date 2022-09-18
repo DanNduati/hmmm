@@ -199,9 +199,9 @@ Output:
 }
 ```
 ## <b>ToDo</b>
-- [  ] Establish a python BLE server to connect with MiBand 5
-- [  ] Figure out and retrieve vitals,steps count, and sleep data from the device
-- [  ] Perform EDA on smartwatch data and wakatime stats
+- [ ] Establish a python BLE server to connect with MiBand 5
+- [ ] Figure out and retrieve vitals,steps count, and sleep data from the device
+- [ ] Perform EDA on smartwatch data and wakatime stats
 
 ## <b>License and Copyright</b>
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)](LICENSE)
