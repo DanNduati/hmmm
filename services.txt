@@ -1,0 +1,61 @@
+00001530-0000-3512-2118-0009af100700:Unknown
+	00001531-0000-3512-2118-0009af100700:Unknown:['write', 'notify']
+	00001532-0000-3512-2118-0009af100700:Unknown:['write-without-response']
+00003802-0000-1000-8000-00805f9b34fb:Vendor specific
+	00004a02-0000-1000-8000-00805f9b34fb:Vendor specific:['read', 'write', 'notify']
+0000180d-0000-1000-8000-00805f9b34fb:Heart Rate
+	00002a39-0000-1000-8000-00805f9b34fb:Heart Rate Control Point:['read', 'write']
+	00002a37-0000-1000-8000-00805f9b34fb:Heart Rate Measurement:['notify']
+0000fee0-0000-1000-8000-00805f9b34fb:Anhui Huami Information Technology Co.
+	00002a04-0000-1000-8000-00805f9b34fb:Peripheral Preferred Connection Parameters:['read', 'write-without-response', 'notify']
+	00000016-0000-3512-2118-0009af100700:Hardcopy Notification:['write-without-response', 'notify']
+	0000000e-0000-3512-2118-0009af100700:Unknown:['write']
+	00000011-0000-3512-2118-0009af100700:HIDP:['read', 'write-without-response', 'notify']
+	00000003-0000-3512-2118-0009a100700:RFCOMM:['write-without-response', 'notify']
+	00000013-0000-3512-2118-0009af100700:Unknown:['read', 'write', 'notify']
+	00000004-0000-3512-2118-0009af100700:Unknown:['write-without-response', 'notify']
+	00000001-0000-3512-2118-0009af100700:SDP:['write-without-response', 'notify']
+	00002a2b-0000-1000-8000-00805f9b34fb:Current Time:['read', 'write', 'notify']
+	00000006-0000-3512-2118-0009af100700:Unknown:['read', 'notify']
+	00000002-0000-3512-2118-0009af100700:Unknown:['notify']
+	00000020-0000-3512-2118-0009af100700:Unknown:['read', 'write-without-response', 'notify']
+	00000017-0000-3512-2118-0009af100700:AVCTP:['write-without-response', 'notify']
+	00000008-0000-3512-2118-0009af100700:OBEX:['write', 'notify']
+	00000005-0000-3512-2118-0009af100700:TCS-BIN:['notify']
+	00000012-0000-3512-2118-0009af100700:Hardcopy Control Channel:['read', 'write-without-response', 'notify']
+	00000007-0000-3512-2118-0009af100700:ATT:['read', 'notify']
+	0000000f-0000-3512-2118-0009af100700:BNEP:['write-without-response', 'notify']
+	00000010-0000-3512-2118-0009af100700:UPNP:['notify']
+0000fee1-0000-1000-8000-00805f9b34fb:Anhui Huami Information Technology Co.
+	0000fec1-0000-3512-2118-0009af100700:KDDI Corporation:['read', 'write', 'notify']
+	00000009-0000-3512-2118-0009af100700:Unknown:['read', 'write-without-response', 'notify']
+	0000fedf-0000-1000-8000-00805f9b34fb:Design SHIFT:['read']
+	0000fed2-0000-1000-8000-00805f9b34fb:Apple: Inc.:['read']
+	0000fed3-0000-1000-8000-00805f9b34fb:Apple: Inc.:['read', 'write']
+	0000fede-0000-1000-8000-00805f9b34fb:Coin: Inc.:['read']
+	0000fed1-0000-1000-8000-00805f9b34fb:Apple: Inc.:['read', 'write']
+	0000fedd-0000-1000-8000-00805f9b34fb:Jawbone:['write']
+	0000fed0-0000-1000-8000-00805f9b34fb:Apple: Inc.:['read', 'write']
+00001811-0000-1000-8000-00805f9b34fb:Alert Notification Service
+	00002a44-0000-1000-8000-00805f9b34fb:Alert Notification Control Point:['read', 'write', 'notify']
+	00002a46-0000-1000-8000-00805f9b34fb:New Alert:['read', 'write']
+0000180f-0000-1000-8000-00805f9b34fb:Battery Service
+	00002a19-0000-1000-8000-00805f9b34fb:Battery Level:['read', 'notify']
+00001801-0000-1000-8000-00805f9b34fb:Generic Attribute Profile
+0000180a-0000-1000-8000-00805f9b34fb:Device Information
+	00002a50-0000-1000-8000-00805f9b34fb:PnP ID:['read']
+	00002a25-0000-1000-8000-00805f9b34fb:Serial Number String:['read']
+	00000014-0000-3512-2118-0009af100700:Hardcopy Data Channel:['write-without-response', 'notify']
+	00002a28-0000-1000-8000-00805f9b34fb:Software Revision String:['read']
+	00002a27-0000-1000-8000-00805f9b34fb:Hardware Revision String:['read']
+	00002a23-0000-1000-8000-00805f9b34fb:System ID:['read']
+00001802-0000-1000-8000-00805f9b34fb:Immediate Alert
+	00002a06-0000-1000-8000-00805f9b34fb:Alert Level:['write-without-response']
+
+
+## Interesting characteristics with read properties
+00002a2b-0000-1000-8000-00805f9b34fb:Current Time:['read', 'write', 'notify']
+00000006-0000-3512-2118-0009af100700:Unknown:['read', 'notify']
+00000007-0000-3512-2118-0009af100700:ATT:['read', 'notify']
+00000020-0000-3512-2118-0009af100700:Unknown:['read', 'write-without-response', 'notify']
+00000012-0000-3512-2118-0009af100700:Hardcopy Control Channel:['read', 'write-without-response', 'notify']
